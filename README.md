@@ -12,7 +12,7 @@
 > - [Conclusion](#conclusion)
 > - [Ressource](#ressource)
 > - [Let’s Get in Touch](#lets-get-in-touch)
-> - [Exemple de JWT]()
+> - Exemple de JWT on Postman
 
 
 
@@ -58,10 +58,10 @@
 4. **Requêtes Authentifiées** : Pour chaque requête nécessitant une authentification, le client envoie le token dans l'en-tête de la requête.
 
 5. **Vérification** : Le serveur vérifie la validité du token et autorise ou refuse l'accès.
-
+![alt text](/imgs/HowJWT.png)
 
 # Conclusion
-> Les JWT sont idéaux pour les applications modernes, décentralisées et nécessitant une scalabilité élevée. Les sessions, quant à elles, sont simples et sécurisées pour des applications plus traditionnelles.
+> JWT sont idéaux pour les applications modernes, décentralisées et nécessitant une scalabilité élevée. Les sessions, quant à elles, sont simples et sécurisées pour des applications plus traditionnelles.
 
 
 # Useful Resources :
